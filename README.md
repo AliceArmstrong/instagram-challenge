@@ -65,7 +65,7 @@ As a site owner
 To prevent empty pages
 I want an image to be compulsory
 
-As a site owner
+> As a site owner
 > To verify genuine users
 > I want accounts to be validated via email if not by Facebook
 
