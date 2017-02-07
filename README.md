@@ -63,7 +63,7 @@ I want to have a profile picture
 
 As a site owner
 To prevent empty pages
-I want an image to be compulsory
+> I want an image to be compulsory
 
 > As a site owner
 > To verify genuine users
