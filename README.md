@@ -61,7 +61,7 @@ As a user
 To make my profile page more unique
 I want to have a profile picture
 
-As a site owner
+> As a site owner
 > To prevent empty pages
 > I want an image to be compulsory
 
