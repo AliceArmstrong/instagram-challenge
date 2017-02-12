@@ -59,7 +59,7 @@ I want a profile page
 
 As a user
 To make my profile page more unique
-I want to have a profile picture
+> I want to have a profile picture
 
 > As a site owner
 > To prevent empty pages
