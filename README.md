@@ -71,4 +71,4 @@ I want accounts to be validated via email if not by Facebook
 
 As a site owner
 To make my site more attractive
-I want it to be styled```
+I want it to be styled
