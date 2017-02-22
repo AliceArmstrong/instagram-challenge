@@ -3,6 +3,7 @@
 Clone of Instagram using Rails. This project includes users who can post pictures, write comments on pictures and like a picture. Project is a work-on-progress.
 
 Time taken: Two days
+
 Technologies used:
 * Ruby on Rails
 * RSpec
@@ -12,7 +13,7 @@ Technologies used:
 * Cloudinary
 * Trello
 
-```As a user
+As a user
 To be part of the community
 I want to be able to make an account
 
