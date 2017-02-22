@@ -69,6 +69,6 @@ As a site owner
 To verify genuine users
 I want accounts to be validated via email if not by Facebook
 
-As a site owner
-To make my site more attractive
-I want it to be styled
+> As a site owner
+> To make my site more attractive
+> I want it to be styled
