@@ -12,7 +12,7 @@ Technologies used:
 * Cloudinary
 * Trello
 
-As a user
+`As a user
 To be part of the community
 I want to be able to make an account
 
