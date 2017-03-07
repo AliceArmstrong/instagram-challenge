@@ -1,23 +1,73 @@
-Instagram Challenge
-===================
+#### Instagram Challenge
 
-Instructions
--------
-* Challenge time: one weekend
-* Feel free to use Google, your notes, books, etc., but work on your own
-* If you refer to the solution of another coach or student, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9am Monday morning
+Clone of Instagram using Rails. This project includes **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Project is a work-on-progress.
 
-Task
------
+Time taken: Two days
+Technologies used:
+* Ruby on Rails
+* RSpec
+* Postgresql
+* Devise
+* Paperclip
+* Cloudinary
+* Trello
 
-Build Instagram: Simple huh!
+`As a user
+To be part of the community
+I want to be able to make an account
 
-Bonus if you can write your own set of sensible user stories!
+As a user
+So that I can store pictures safely on my account
+I want to be able to sign in
 
-As usual please start by forking this repo. After cloning your fork and cd'ing into it, you'll need to [initialize a Rails app in the current directory](http://blog.jasonmeridth.com/posts/create-rails-application-in-current-directory/).
+As a user
+So that my account has privacy
+I want to be able to sign out
 
-Your challenge is to build Instagram using Rails. You'll need **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Style it like Instagram's website (or more awesome).
+As a user
+So that I can join up quicker
+I want to be able to sign up with Facebook
 
-Bonus if you can add filters!
+As a user
+So that I can show my photos
+I want to be able to post images
+
+As a site owner
+So that users images persist
+I want them to be webhosted
+
+As a user
+To feel more like part of the community
+I want to be able to comment on images
+
+As a user
+To show my appreciation for photos
+I want to be able to 'love' images
+
+As a user
+To enhance my experience
+I want to have image filters for my photos
+
+As a user
+To find photos of interest to me
+I want to be able to filter images by hashtags
+
+As a user
+To showcase my photos
+I want a profile page
+
+As a user
+To make my profile page more unique
+I want to have a profile picture
+
+As a site owner
+To prevent empty pages
+I want an image to be compulsory
+
+As a site owner
+To verify genuine users
+I want accounts to be validated via email if not by Facebook
+
+As a site owner
+To make my site more attractive
+I want it to be styled`
