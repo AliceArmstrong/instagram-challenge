@@ -12,7 +12,7 @@ Technologies used:
 * Cloudinary
 * Trello
 
-`As a user
+```As a user
 To be part of the community
 I want to be able to make an account
 
@@ -70,4 +70,4 @@ I want accounts to be validated via email if not by Facebook
 
 As a site owner
 To make my site more attractive
-I want it to be styled`
+I want it to be styled```
