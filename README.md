@@ -51,7 +51,7 @@ I want to have image filters for my photos
 
 As a user
 To find photos of interest to me
-I want to be able to filter images by hashtags
+> I want to be able to filter images by hashtags
 
 > As a user
 > To showcase my photos
