@@ -53,7 +53,7 @@ As a user
 To find photos of interest to me
 I want to be able to filter images by hashtags
 
-As a user
+> As a user
 > To showcase my photos
 > I want a profile page
 
