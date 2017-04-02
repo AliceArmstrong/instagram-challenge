@@ -55,7 +55,7 @@ I want to be able to filter images by hashtags
 
 As a user
 To showcase my photos
-I want a profile page
+> I want a profile page
 
 > As a user
 > To make my profile page more unique
