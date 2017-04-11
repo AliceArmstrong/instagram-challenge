@@ -13,44 +13,44 @@ Technologies used:
 * Cloudinary
 * Trello
 
-As a user
-To be part of the community
-I want to be able to make an account
+> As a user
+> To be part of the community
+> I want to be able to make an account
 
-As a user
-So that I can store pictures safely on my account
-I want to be able to sign in
+> As a user
+> So that I can store pictures safely on my account
+> I want to be able to sign in
 
-As a user
-So that my account has privacy
-I want to be able to sign out
+> As a user
+> So that my account has privacy
+> I want to be able to sign out
 
-As a user
-So that I can join up quicker
-I want to be able to sign up with Facebook
+> As a user
+> So that I can join up quicker
+> I want to be able to sign up with Facebook
 
-As a user
-So that I can show my photos
-I want to be able to post images
+> As a user
+> So that I can show my photos
+> I want to be able to post images
 
-As a site owner
-So that users images persist
-I want them to be webhosted
+> As a site owner
+> So that users images persist
+> I want them to be webhosted
 
-As a user
-To feel more like part of the community
-I want to be able to comment on images
+> As a user
+> To feel more like part of the community
+> I want to be able to comment on images
 
-As a user
-To show my appreciation for photos
-I want to be able to 'love' images
+> As a user
+> To show my appreciation for photos
+> I want to be able to 'love' images
 
-As a user
-To enhance my experience
-I want to have image filters for my photos
+> As a user
+> To enhance my experience
+> I want to have image filters for my photos
 
-As a user
-To find photos of interest to me
+> As a user
+> To find photos of interest to me
 > I want to be able to filter images by hashtags
 
 > As a user
